@@ -84,7 +84,9 @@
     <ProhibitFloatingDependencies>true</ProhibitFloatingDependencies>
     <CoreFxExpectedPrerelease>rc3-24210-10</CoreFxExpectedPrerelease>
     <CoreClrExpectedPrerelease>servicing-24603-01</CoreClrExpectedPrerelease>
-    <ExternalExpectedPrerelease>rc3-24211-00</ExternalExpectedPrerelease>
+    <ExternalExpectedPrerelease>Microsoft.NETCore.Platforms 1.0.2-servicing-24605-03
+System.Net.Http 4.1.1-servicing-24605-03
+System.Net.Http.WinHttpHandler 4.0.1-servicing-24605-03</ExternalExpectedPrerelease>
     <CoreFxVersionsIdentityRegex>^(?i)((System\..*)|(NETStandard\.Library)|(Microsoft\.CSharp)|(Microsoft\.NETCore\.Targets)|(Microsoft\.NETCore\.Platforms)|(Microsoft\.Win32\..*)|(Microsoft\.VisualBasic))(?&lt;!TestData)$</CoreFxVersionsIdentityRegex>
   </PropertyGroup>
 
